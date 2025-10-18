@@ -1,4 +1,7 @@
 # Implementation of Multivariate Linear Regression
+## Developed By:JOSHITHA SHREE BS
+## Register Number:212224230107
+
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
@@ -59,10 +62,7 @@ plt.show()
 
 ### Insert your output
 
-<img width="737" height="588" alt="image" src="https://github.com/user-attachments/assets/d54768cc-2fe7-4455-b4a2-3a4222d97839" />
-
-
-<img width="728" height="507" alt="image" src="https://github.com/user-attachments/assets/4609603b-b92c-418a-95df-d67a0ab16b0a" />
+<img width="960" height="403" alt="image" src="https://github.com/user-attachments/assets/2f5bf288-0b6c-4338-87ab-5f99b8d2a756" />
 
 
 
